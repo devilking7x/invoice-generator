@@ -1,6 +1,6 @@
 # Invoice Generator
 
-[![Live demo](https://devilking7x.github.io/invoice-generator/badge.svg)](https://devilking7x.github.io/invoice-generator/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Live demo](https://img.shields.io/website?url=https%3A%2F%2Fdevilking7x.github.io%2Finvoice-generator%2F)](https://devilking7x.github.io/invoice-generator/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > Create a clean invoice without a subscription.
 
